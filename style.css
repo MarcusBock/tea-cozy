@@ -98,3 +98,7 @@ footer {
   margin-left: 20px;
   text-align: left;
 }
+
+#contact, footer p {
+  font-size: 0.83em;
+}

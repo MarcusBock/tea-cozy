@@ -99,6 +99,6 @@ footer {
   text-align: left;
 }
 
-#contact, footer p {
+#contact p, footer p {
   font-size: 0.83em;
 }
